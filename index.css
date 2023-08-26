@@ -1,0 +1,74 @@
+#ProPict{
+				padding-top:5%;
+				padding-left:15%;
+				width: 100%;
+			}
+			<--#highlight{
+				position: relative;
+				background-color: #d6d6d6;/-->
+			}
+			hr {
+			  height: 4px;
+			  background-color: black;
+			  border: none;
+			}
+
+			header{
+				
+			}
+			h1{
+				font-family:Lucida Console; 
+				font-size:60px;
+				font-weight: bold;
+				color: #000000;
+				padding-top: 65px;
+				padding-bottom: 10px;
+				text-align: center;
+			}
+			h2{
+				font-family:Lucida Console; 
+				font-size:40px;
+				font-weight:bold;
+				color: #000000;
+				padding-top: 5px;
+				padding-bottom: 10px;
+				padding-left: 5px;
+				text-align:left;
+			}
+			h3{
+				font-family:Lucida Console; 
+				font-size:25px;
+				font-weight: bold;
+				color: #454545;
+				text-align:left;
+			}
+			p{
+				font-family:Tahoma; 
+				font-size:20px;
+				color: #454545;
+				text-align:left;
+			}
+			#deskripsi{
+				font-family:Tahoma; 
+				font-size:17px;
+				color: #454545;
+				text-align:left;
+			}
+			#bio{
+				font-size:20px;
+				color: #000000;
+				padding-top: 25px;
+				padding-bottom: 10px;
+				padding-left: 65px;
+				text-align:left;
+				<--background-color: #dbdbdb;/-->
+			}
+			#profil{
+				font-size:20px;
+				color: #000000;
+				padding-top: 25px;
+				padding-bottom: 10px;
+				padding-left: 10px;
+				text-align:left;
+				<--background-color: #dbdbdb;/-->
+			}
